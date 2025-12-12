@@ -1,6 +1,5 @@
 # Shalini Kuruguntla 👩🏽‍💻
 I am currently **studying an MSc in Advanced Software Development at Technological University Dublin**, with a strong focus on **backend systems, data processing, and real-time application logic**, while also delivering **production-ready frontend interfaces** to validate system behaviour.
-
 My work emphasises **robust APIs, spatial data pipelines, safety-aware algorithms, and event-driven architectures**, developed within structured agile workflows.
 
 ---
@@ -13,8 +12,7 @@ My work emphasises **robust APIs, spatial data pipelines, safety-aware algorithm
 🎥 **Demo Video:** https://youtu.be/jXcPZIOq7zg  
 
 **SafePath** is my **MSc dissertation group project**, built as a backend-driven platform that computes **safer urban routes** using historical datasets, spatial analysis, and real-time user inputs.
-
-The system exposes **REST and WebSocket APIs**, consumed by a modern web client for route planning, hazard reporting, and live safety updates.
+The system exposes REST and WebSocket APIs, consumed by a modern web client for route planning, hazard reporting, and live safety updates.
 
 ---
 
@@ -67,13 +65,10 @@ The system exposes **REST and WebSocket APIs**, consumed by a modern web client 
 ---
 
 ## 📐 Architecture, Delivery & Engineering Practices
-- Layered backend architecture (API → services → data access)  
-- Clear separation of routing, scoring, and persistence layers  
+- Layered backend architecture with clear separation of concerns  
 - Event-driven updates using WebSockets  
-- Agile delivery using **Jira** (epics, user stories, sprint planning, backlog refinement)  
-- Git & GitHub (feature branches, PR-based workflow)  
-- Sprint reviews, retrospectives, and iterative improvement  
-- Documentation- and diagram-driven development
+- Agile delivery using Jira and PR-based GitHub workflows  
+- Research, documentation, and diagram-driven development
 
 ---
 
