@@ -8,7 +8,7 @@ Dublin-based graduate with an **MSc in Computer Science** (TU Dublin, 2.1) and a
 
 ---
 
-## Projects
+## Featured project
 
 ### SafePath: MSc dissertation (team of five)
 A live safe-route planner for London, built over 11 sprints. We surveyed 53 people (78% put safety before speed) and ran usability tests before launch.
@@ -23,18 +23,13 @@ My part:
 
 `Node.js` `React` `Next.js` `TypeScript` `PostgreSQL/PostGIS` `Socket.IO`
 
-### Oracle query tuning: MSc Advanced Databases (individual)
-Wrote 10 analytical SQL queries on order and sales data (918K sales rows), including year-on-year growth, RFM customer segmentation and seasonal demand. Tested indexes, materialized views and partitioning against a baseline (materialized views gave the biggest gain), and set up row-level security (VPD), compared with PostgreSQL.
+## Other work (not on GitHub)
 
-`Oracle SQL` `window functions` `query tuning`
+- **Oracle query tuning** (MSc Advanced Databases, individual): 10 analytical SQL queries on order and sales data (918K sales rows), including year-on-year growth, RFM customer segmentation and seasonal demand. Tested indexes, materialized views and partitioning against a baseline, and set up row-level security (VPD).
+- **Time-series databases** (MSc Advanced Databases, pair): TimescaleDB vs MongoDB on live stock-market data. I built the Python ingestion from Yahoo Finance and set up the compression and retention policies.
+- **CRM platforms** (Nexseyon, with my team): CRM platforms for our clients, including a solar installer and a tiling company, on Frappe (Python, MariaDB, Redis) and Vue 3, with releases gated by about 220 automated checks. This is private client work.
 
-### Time-series databases: MSc Advanced Databases (pair)
-TimescaleDB vs MongoDB on live stock-market data. I built the Python ingestion from Yahoo Finance (prices, dividends and splits, with incomplete records dropped), set up the compression and retention policies, and read the query plans in both databases.
-
-`Python` `TimescaleDB` `MongoDB`
-
-### CRM platforms: Nexseyon (with my team)
-CRM platforms for our clients, including a solar installer and a tiling company, on Frappe (Python, MariaDB, Redis) and Vue 3, with Next.js apps for job scheduling and on-site forms. Releases go through GitHub Actions, gated by about 220 automated checks. This is client work, so the code is private.
+More detail on my [portfolio](https://shalinikuruguntla.github.io).
 
 ---
 
