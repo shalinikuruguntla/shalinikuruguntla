@@ -23,7 +23,7 @@ My part:
 
 `Node.js` `React` `Next.js` `TypeScript` `PostgreSQL/PostGIS` `Socket.IO`
 
-## Other work (not on GitHub)
+## Other projects
 
 - **Oracle query tuning** (MSc Advanced Databases, individual): 10 analytical SQL queries on order and sales data (918K sales rows), including year-on-year growth, RFM customer segmentation and seasonal demand. Tested indexes, materialized views and partitioning against a baseline, and set up row-level security (VPD).
 - **Time-series databases** (MSc Advanced Databases, pair): TimescaleDB vs MongoDB on live stock-market data. I built the Python ingestion from Yahoo Finance and set up the compression and retention policies.
